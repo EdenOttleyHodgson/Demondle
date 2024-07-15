@@ -1,0 +1,3458 @@
+[
+  {
+    "affinities": {
+      "ailment_affinity": -4,
+      "almighty_affinity": 5,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -5,
+      "fire_affinity": 2,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 4,
+      "light_affinity": 0,
+      "phys_affinity": -3
+    },
+    "level": 68,
+    "name": "Agrat",
+    "race": "Qadistu",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Strong",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 42,
+      "hp": 348,
+      "luck": 39,
+      "magic": 78,
+      "mp": 396,
+      "strength": 26,
+      "vitality": 51
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -3,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": -3,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 1,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 39,
+    "name": "Amabie",
+    "race": "Enigma",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 26,
+      "hp": 190,
+      "luck": 34,
+      "magic": 38,
+      "mp": 202,
+      "strength": 15,
+      "vitality": 29
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 4,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 6,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -6,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 87,
+    "name": "Amon",
+    "race": "Tyrant",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Drain",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Strong",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 34,
+      "hp": 668,
+      "luck": 49,
+      "magic": 66,
+      "mp": 352,
+      "strength": 73,
+      "vitality": 78
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 2,
+      "elec_affinity": 0,
+      "fire_affinity": -4,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 2,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 49,
+    "name": "Anansi",
+    "race": "Genma",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 225,
+      "luck": 43,
+      "magic": 47,
+      "mp": 243,
+      "strength": 22,
+      "vitality": 27
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 12,
+    "name": "Aogami Type-A",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 9,
+      "hp": 91,
+      "luck": 10,
+      "magic": 11,
+      "mp": 70,
+      "strength": 14,
+      "vitality": 16
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 28,
+    "name": "Aogami Type-B",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 24,
+      "hp": 147,
+      "luck": 30,
+      "magic": 21,
+      "mp": 138,
+      "strength": 21,
+      "vitality": 23
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 51,
+    "name": "Aogami Type-C",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 36,
+      "hp": 302,
+      "luck": 30,
+      "magic": 24,
+      "mp": 232,
+      "strength": 56,
+      "vitality": 46
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 72,
+    "name": "Aogami Type-D",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 55,
+      "hp": 366,
+      "luck": 52,
+      "magic": 71,
+      "mp": 476,
+      "strength": 36,
+      "vitality": 43
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": -3,
+      "force_affinity": 0,
+      "healing_affinity": 1,
+      "ice_affinity": 2,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 16,
+    "name": "Apsaras",
+    "race": "Yoma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Strong",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 17,
+      "hp": 76,
+      "luck": 15,
+      "magic": 19,
+      "mp": 118,
+      "strength": 9,
+      "vitality": 11
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -2,
+      "almighty_affinity": 4,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -3
+    },
+    "level": 53,
+    "name": "Armaiti",
+    "race": "Herald",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 38,
+      "hp": 245,
+      "luck": 35,
+      "magic": 48,
+      "mp": 259,
+      "strength": 27,
+      "vitality": 33
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -4,
+      "fire_affinity": 3,
+      "force_affinity": 3,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": -2,
+      "phys_affinity": 0
+    },
+    "level": 61,
+    "name": "Azazel",
+    "race": "Fallen",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Null",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 32,
+      "hp": 350,
+      "luck": 34,
+      "magic": 56,
+      "mp": 297,
+      "strength": 38,
+      "vitality": 44
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 5,
+      "fire_affinity": 0,
+      "force_affinity": -6,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 49,
+    "name": "Baihu",
+    "race": "Holy",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 48,
+      "hp": 230,
+      "luck": 40,
+      "magic": 25,
+      "mp": 249,
+      "strength": 33,
+      "vitality": 28
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 6,
+      "elec_affinity": 4,
+      "fire_affinity": -6,
+      "force_affinity": 0,
+      "healing_affinity": -4,
+      "ice_affinity": 2,
+      "light_affinity": -2,
+      "phys_affinity": 0
+    },
+    "level": 95,
+    "name": "Beelzebub",
+    "race": "Tyrant",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Drain",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Strong",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 92,
+      "hp": 570,
+      "luck": 92,
+      "magic": 76,
+      "mp": 517,
+      "strength": 65,
+      "vitality": 75
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 1,
+      "buff_affinity": -3,
+      "dark_affinity": -4,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 3,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 4,
+      "phys_affinity": 0
+    },
+    "level": 71,
+    "name": "Cherub",
+    "race": "Divine",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Drain",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 55,
+      "hp": 348,
+      "luck": 50,
+      "magic": 60,
+      "mp": 351,
+      "strength": 34,
+      "vitality": 42
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -5,
+      "fire_affinity": -5,
+      "force_affinity": 2,
+      "healing_affinity": 0,
+      "ice_affinity": 4,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 77,
+    "name": "Chi You",
+    "race": "Tyrant",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Weak",
+      "force_resistance": "Repel",
+      "ice_resistance": "Null",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 39,
+      "hp": 497,
+      "luck": 47,
+      "magic": 65,
+      "mp": 325,
+      "strength": 75,
+      "vitality": 67
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 5,
+      "dark_affinity": -6,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 5,
+      "healing_affinity": 5,
+      "ice_affinity": 5,
+      "light_affinity": 6,
+      "phys_affinity": 0
+    },
+    "level": 61,
+    "name": "Cleopatra",
+    "race": "Femme",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Strong",
+      "ice_resistance": "Strong",
+      "light_resistance": "Drain",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 44,
+      "hp": 306,
+      "luck": 51,
+      "magic": 69,
+      "mp": 352,
+      "strength": 26,
+      "vitality": 32
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": -2,
+      "fire_affinity": 0,
+      "force_affinity": 4,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 52,
+    "name": "Cu Chulainn",
+    "race": "Genma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 40,
+      "hp": 293,
+      "luck": 25,
+      "magic": 33,
+      "mp": 201,
+      "strength": 41,
+      "vitality": 37
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 3,
+      "buff_affinity": 0,
+      "dark_affinity": -4,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -4,
+      "phys_affinity": 6
+    },
+    "level": 80,
+    "name": "Dagda",
+    "race": "Deity",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Null",
+      "fire_resistance": "Null",
+      "force_resistance": "Null",
+      "ice_resistance": "Null",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 43,
+      "hp": 559,
+      "luck": 41,
+      "magic": 43,
+      "mp": 339,
+      "strength": 85,
+      "vitality": 65
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 2,
+      "buff_affinity": 0,
+      "dark_affinity": 3,
+      "elec_affinity": 0,
+      "fire_affinity": 2,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -4,
+      "phys_affinity": 0
+    },
+    "level": 55,
+    "name": "Decarabia",
+    "race": "Fallen",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 33,
+      "hp": 276,
+      "luck": 41,
+      "magic": 48,
+      "mp": 269,
+      "strength": 31,
+      "vitality": 33
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 8,
+      "almighty_affinity": 8,
+      "buff_affinity": 4,
+      "dark_affinity": 8,
+      "elec_affinity": 8,
+      "fire_affinity": 8,
+      "force_affinity": 8,
+      "healing_affinity": 4,
+      "ice_affinity": 8,
+      "light_affinity": 8,
+      "phys_affinity": 8
+    },
+    "level": 99,
+    "name": "Demi-fiend A",
+    "race": "King",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Null",
+      "fire_resistance": "Null",
+      "force_resistance": "Null",
+      "ice_resistance": "Null",
+      "light_resistance": "Null",
+      "phys_resistance": "Null"
+    },
+    "stats": {
+      "agility": 99,
+      "hp": 999,
+      "luck": 99,
+      "magic": 99,
+      "mp": 999,
+      "strength": 99,
+      "vitality": 99
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -4
+    },
+    "level": 31,
+    "name": "Dis",
+    "race": "Yoma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Strong",
+      "force_resistance": "Strong",
+      "ice_resistance": "Strong",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Weak"
+    },
+    "stats": {
+      "agility": 23,
+      "hp": 153,
+      "luck": 26,
+      "magic": 26,
+      "mp": 158,
+      "strength": 15,
+      "vitality": 25
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 2,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 1,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": -3,
+      "healing_affinity": -3,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 3
+    },
+    "level": 40,
+    "name": "Dormarth",
+    "race": "Wilder",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 33,
+      "hp": 193,
+      "luck": 31,
+      "magic": 26,
+      "mp": 189,
+      "strength": 30,
+      "vitality": 21
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 5,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -5,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 52,
+    "name": "Efreet",
+    "race": "Yoma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Drain",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 32,
+      "hp": 284,
+      "luck": 29,
+      "magic": 43,
+      "mp": 224,
+      "strength": 34,
+      "vitality": 38
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": -3,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": 6
+    },
+    "level": 66,
+    "name": "Eisheth",
+    "race": "Qadistu",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Null",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 55,
+      "hp": 412,
+      "luck": 28,
+      "magic": 21,
+      "mp": 278,
+      "strength": 66,
+      "vitality": 60
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": -3,
+      "fire_affinity": 2,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 3
+    },
+    "level": 37,
+    "name": "Eligor",
+    "race": "Fallen",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Null",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 24,
+      "hp": 214,
+      "luck": 20,
+      "magic": 19,
+      "mp": 157,
+      "strength": 38,
+      "vitality": 32
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": -2,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": -4,
+      "healing_affinity": -1,
+      "ice_affinity": 4,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 65,
+    "name": "Fenrir",
+    "race": "Wilder",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Drain",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 54,
+      "hp": 373,
+      "luck": 30,
+      "magic": 36,
+      "mp": 253,
+      "strength": 61,
+      "vitality": 41
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -6,
+      "fire_affinity": 4,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 3,
+      "light_affinity": 0,
+      "phys_affinity": 5
+    },
+    "level": 71,
+    "name": "Fionn mac Cumhaill",
+    "race": "Genma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Null",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 52,
+      "hp": 437,
+      "luck": 37,
+      "magic": 52,
+      "mp": 325,
+      "strength": 58,
+      "vitality": 47
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": -3,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 66,
+    "name": "Girimekhala",
+    "race": "Vile",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Repel"
+    },
+    "stats": {
+      "agility": 35,
+      "hp": 335,
+      "luck": 38,
+      "magic": 46,
+      "mp": 225,
+      "strength": 61,
+      "vitality": 40
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -4,
+      "fire_affinity": 0,
+      "force_affinity": 4,
+      "healing_affinity": -3,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 3
+    },
+    "level": 59,
+    "name": "Glasya-Labolas",
+    "race": "Beast",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 38,
+      "hp": 333,
+      "luck": 45,
+      "magic": 45,
+      "mp": 255,
+      "strength": 39,
+      "vitality": 41
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -2,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": -1,
+      "force_affinity": -2,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 5
+    },
+    "level": 61,
+    "name": "Gogmagog",
+    "race": "Jirae",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Weak",
+      "ice_resistance": "Null",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Null"
+    },
+    "stats": {
+      "agility": 31,
+      "hp": 412,
+      "luck": 42,
+      "magic": 27,
+      "mp": 212,
+      "strength": 46,
+      "vitality": 56
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 1,
+      "fire_affinity": -2,
+      "force_affinity": -2,
+      "healing_affinity": 0,
+      "ice_affinity": 2,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 5,
+    "name": "Gremlin",
+    "race": "Jaki",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Weak",
+      "force_resistance": "Weak",
+      "ice_resistance": "Strong",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 10,
+      "hp": 47,
+      "luck": 11,
+      "magic": 8,
+      "mp": 80,
+      "strength": 4,
+      "vitality": 5
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 3,
+      "healing_affinity": -2,
+      "ice_affinity": 0,
+      "light_affinity": -4,
+      "phys_affinity": 2
+    },
+    "level": 68,
+    "name": "Gurulu",
+    "race": "Raptor",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 59,
+      "hp": 333,
+      "luck": 53,
+      "magic": 39,
+      "mp": 346,
+      "strength": 44,
+      "vitality": 35
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 2,
+      "almighty_affinity": -2,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -2,
+      "fire_affinity": 0,
+      "force_affinity": 2,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 11,
+    "name": "Halphas",
+    "race": "Fallen",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 15,
+      "hp": 62,
+      "luck": 15,
+      "magic": 13,
+      "mp": 89,
+      "strength": 6,
+      "vitality": 6
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": -2,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -3
+    },
+    "level": 31,
+    "name": "Hare of Inaba",
+    "race": "UMA",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Weak",
+      "force_resistance": "Weak",
+      "ice_resistance": "Weak",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 34,
+      "hp": 166,
+      "luck": 23,
+      "magic": 22,
+      "mp": 155,
+      "strength": 19,
+      "vitality": 24
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 5,
+      "buff_affinity": 2,
+      "dark_affinity": -5,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 78,
+    "name": "Huang Long",
+    "race": "Dragon",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Strong",
+      "force_resistance": "Strong",
+      "ice_resistance": "Strong",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 49,
+      "hp": 410,
+      "luck": 56,
+      "magic": 58,
+      "mp": 330,
+      "strength": 56,
+      "vitality": 50
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": -6,
+      "elec_affinity": 0,
+      "fire_affinity": 3,
+      "force_affinity": 2,
+      "healing_affinity": 0,
+      "ice_affinity": -3,
+      "light_affinity": 4,
+      "phys_affinity": 0
+    },
+    "level": 44,
+    "name": "Ichiro Dazai A",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Null",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 41,
+      "hp": 259,
+      "luck": 46,
+      "magic": 31,
+      "mp": 251,
+      "strength": 30,
+      "vitality": 37
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 5,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -5,
+      "light_affinity": -1,
+      "phys_affinity": 0
+    },
+    "level": 20,
+    "name": "Jack-o'-Lantern",
+    "race": "Fairy",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Null",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 19,
+      "hp": 90,
+      "luck": 18,
+      "magic": 23,
+      "mp": 135,
+      "strength": 11,
+      "vitality": 12
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": -3,
+      "dark_affinity": 2,
+      "elec_affinity": 0,
+      "fire_affinity": 3,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -2,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 74,
+    "name": "Kali",
+    "race": "Femme",
+    "resistances": {
+      "dark_resistance": "Repel",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Null",
+      "force_resistance": "Weak",
+      "ice_resistance": "Weak",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 48,
+      "hp": 465,
+      "luck": 33,
+      "magic": 34,
+      "mp": 279,
+      "strength": 73,
+      "vitality": 61
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": -4,
+      "fire_affinity": 0,
+      "force_affinity": 3,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 1,
+      "phys_affinity": 0
+    },
+    "level": 35,
+    "name": "Karasu Tengu",
+    "race": "Brute",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Strong",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 169,
+      "luck": 23,
+      "magic": 27,
+      "mp": 166,
+      "strength": 26,
+      "vitality": 22
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 3,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 7,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -5,
+      "light_affinity": 5,
+      "phys_affinity": 3
+    },
+    "level": 78,
+    "name": "Khonsu Ra",
+    "race": "Deity",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Null",
+      "force_resistance": "Strong",
+      "ice_resistance": "Weak",
+      "light_resistance": "Drain",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 54,
+      "hp": 434,
+      "luck": 55,
+      "magic": 72,
+      "mp": 413,
+      "strength": 49,
+      "vitality": 50
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -5,
+      "almighty_affinity": 4,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 4,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -3
+    },
+    "level": 68,
+    "name": "Kinmamon",
+    "race": "Enigma",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Null",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 43,
+      "hp": 360,
+      "luck": 53,
+      "magic": 67,
+      "mp": 352,
+      "strength": 27,
+      "vitality": 46
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": -3,
+      "fire_affinity": 4,
+      "force_affinity": 2,
+      "healing_affinity": 4,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -3
+    },
+    "level": 50,
+    "name": "Konohana Sakuya",
+    "race": "Kunitsu",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Repel",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 33,
+      "hp": 253,
+      "luck": 38,
+      "magic": 48,
+      "mp": 303,
+      "strength": 20,
+      "vitality": 37
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": -2,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": -4,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 3,
+      "phys_affinity": 4
+    },
+    "level": 60,
+    "name": "Kresnik",
+    "race": "Genma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 41,
+      "hp": 359,
+      "luck": 29,
+      "magic": 28,
+      "mp": 251,
+      "strength": 56,
+      "vitality": 45
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 4,
+      "elec_affinity": 0,
+      "fire_affinity": -4,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -2,
+      "phys_affinity": 0
+    },
+    "level": 60,
+    "name": "Kudlak",
+    "race": "Haunt",
+    "resistances": {
+      "dark_resistance": "Drain",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 42,
+      "hp": 333,
+      "luck": 44,
+      "magic": 49,
+      "mp": 295,
+      "strength": 31,
+      "vitality": 37
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 2,
+      "buff_affinity": 0,
+      "dark_affinity": 3,
+      "elec_affinity": 0,
+      "fire_affinity": -4,
+      "force_affinity": 2,
+      "healing_affinity": 0,
+      "ice_affinity": 3,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 48,
+    "name": "Lahmu",
+    "race": "Vile",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Strong",
+      "ice_resistance": "Strong",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 27,
+      "hp": 253,
+      "luck": 30,
+      "magic": 49,
+      "mp": 264,
+      "strength": 30,
+      "vitality": 36
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 1,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": 4,
+      "fire_affinity": 0,
+      "force_affinity": 6,
+      "healing_affinity": -3,
+      "ice_affinity": 0,
+      "light_affinity": -6,
+      "phys_affinity": -2
+    },
+    "level": 72,
+    "name": "Lilith",
+    "race": "Qadistu",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Drain",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 35,
+      "hp": 442,
+      "luck": 42,
+      "magic": 72,
+      "mp": 355,
+      "strength": 37,
+      "vitality": 60
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 7,
+      "buff_affinity": 0,
+      "dark_affinity": 3,
+      "elec_affinity": 2,
+      "fire_affinity": 4,
+      "force_affinity": 2,
+      "healing_affinity": 1,
+      "ice_affinity": 4,
+      "light_affinity": -8,
+      "phys_affinity": 0
+    },
+    "level": 99,
+    "name": "Lucifer",
+    "race": "Devil",
+    "resistances": {
+      "dark_resistance": "Repel",
+      "elec_resistance": "Repel",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Repel",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 65,
+      "hp": 650,
+      "luck": 73,
+      "magic": 108,
+      "mp": 650,
+      "strength": 73,
+      "vitality": 92
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 5,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": -4,
+      "ice_affinity": 0,
+      "light_affinity": -2,
+      "phys_affinity": 0
+    },
+    "level": 48,
+    "name": "Mad Gasser",
+    "race": "Foul",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 28,
+      "hp": 260,
+      "luck": 41,
+      "magic": 25,
+      "mp": 209,
+      "strength": 38,
+      "vitality": 33
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": -3,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 5,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": -4,
+      "light_affinity": 0,
+      "phys_affinity": 3
+    },
+    "level": 76,
+    "name": "Mada",
+    "race": "Vile",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Drain",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 41,
+      "hp": 469,
+      "luck": 38,
+      "magic": 69,
+      "mp": 353,
+      "strength": 64,
+      "vitality": 61
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -6,
+      "light_affinity": 0,
+      "phys_affinity": 5
+    },
+    "level": 67,
+    "name": "Mara",
+    "race": "Tyrant",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Drain",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 25,
+      "hp": 449,
+      "luck": 53,
+      "magic": 31,
+      "mp": 249,
+      "strength": 57,
+      "vitality": 61
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 6,
+      "buff_affinity": 0,
+      "dark_affinity": -4,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -4,
+      "phys_affinity": 6
+    },
+    "level": 94,
+    "name": "Masakado",
+    "race": "Wargod",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 59,
+      "hp": 676,
+      "luck": 83,
+      "magic": 46,
+      "mp": 409,
+      "strength": 104,
+      "vitality": 89
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 3,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -3,
+      "fire_affinity": -5,
+      "force_affinity": 3,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 3,
+      "phys_affinity": 2
+    },
+    "level": 83,
+    "name": "Mastema",
+    "race": "Herald",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Repel",
+      "ice_resistance": "Repel",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 47,
+      "hp": 550,
+      "luck": 53,
+      "magic": 69,
+      "mp": 400,
+      "strength": 69,
+      "vitality": 59
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 5,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -4,
+      "light_affinity": 3,
+      "phys_affinity": 1
+    },
+    "level": 82,
+    "name": "Mithras",
+    "race": "Tyrant",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Drain",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 45,
+      "hp": 501,
+      "luck": 53,
+      "magic": 63,
+      "mp": 351,
+      "strength": 61,
+      "vitality": 52
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 6,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": 4,
+      "fire_affinity": 1,
+      "force_affinity": -6,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 64,
+    "name": "Mother Harlot",
+    "race": "Fiend",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Drain",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Weak",
+      "light_resistance": "Strong",
+      "phys_resistance": "Repel"
+    },
+    "stats": {
+      "agility": 36,
+      "hp": 319,
+      "luck": 40,
+      "magic": 60,
+      "mp": 295,
+      "strength": 42,
+      "vitality": 45
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 4,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": -2,
+      "elec_affinity": 1,
+      "fire_affinity": 0,
+      "force_affinity": 2,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -2,
+      "phys_affinity": 0
+    },
+    "level": 29,
+    "name": "Mothman",
+    "race": "Wilder",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 139,
+      "luck": 27,
+      "magic": 15,
+      "mp": 153,
+      "strength": 17,
+      "vitality": 19
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": -3,
+      "force_affinity": 3,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 38,
+    "name": "Muu Shuwuu",
+    "race": "Raptor",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 36,
+      "hp": 175,
+      "luck": 29,
+      "magic": 34,
+      "mp": 202,
+      "strength": 16,
+      "vitality": 20
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 7,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 3,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": -6
+    },
+    "level": 63,
+    "name": "Naamah",
+    "race": "Qadistu",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Strong",
+      "force_resistance": "Strong",
+      "ice_resistance": "Strong",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Weak"
+    },
+    "stats": {
+      "agility": 45,
+      "hp": 313,
+      "luck": 55,
+      "magic": 57,
+      "mp": 363,
+      "strength": 21,
+      "vitality": 42
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -4,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 3,
+      "fire_affinity": 0,
+      "force_affinity": -5,
+      "healing_affinity": 0,
+      "ice_affinity": 5,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 65,
+    "name": "Nahobeeho",
+    "race": "Fairy",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Drain",
+      "light_resistance": "Strong",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 41,
+      "hp": 398,
+      "luck": 38,
+      "magic": 33,
+      "mp": 287,
+      "strength": 63,
+      "vitality": 50
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": -3,
+      "force_affinity": 4,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -2
+    },
+    "level": 38,
+    "name": "Narcissus",
+    "race": "Jirae",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Null",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 35,
+      "hp": 175,
+      "luck": 31,
+      "magic": 34,
+      "mp": 187,
+      "strength": 22,
+      "vitality": 16
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": -2,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -2,
+      "fire_affinity": 2,
+      "force_affinity": 2,
+      "healing_affinity": -2,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 28,
+    "name": "Nezha Taizi",
+    "race": "Wargod",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Strong",
+      "force_resistance": "Strong",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 16,
+      "hp": 155,
+      "luck": 14,
+      "magic": 24,
+      "mp": 137,
+      "strength": 28,
+      "vitality": 22
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": -1,
+      "fire_affinity": -1,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -1,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 15,
+    "name": "Nozuchi",
+    "race": "Snake",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 9,
+      "hp": 108,
+      "luck": 11,
+      "magic": 9,
+      "mp": 69,
+      "strength": 17,
+      "vitality": 19
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -1,
+      "fire_affinity": -1,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 3,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 13,
+    "name": "Nyami Nyami",
+    "race": "Dragon",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 11,
+      "hp": 62,
+      "luck": 13,
+      "magic": 17,
+      "mp": 109,
+      "strength": 10,
+      "vitality": 9
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 4,
+      "ice_affinity": -5,
+      "light_affinity": 2,
+      "phys_affinity": 2
+    },
+    "level": 55,
+    "name": "Okuninushi",
+    "race": "Kunitsu",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 40,
+      "hp": 320,
+      "luck": 28,
+      "magic": 26,
+      "mp": 236,
+      "strength": 47,
+      "vitality": 47
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 4,
+      "almighty_affinity": 3,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": -4,
+      "phys_affinity": 5
+    },
+    "level": 75,
+    "name": "Ongyo-Ki",
+    "race": "Brute",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Strong",
+      "ice_resistance": "Strong",
+      "light_resistance": "Weak",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 524,
+      "luck": 47,
+      "magic": 45,
+      "mp": 284,
+      "strength": 64,
+      "vitality": 63
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -2,
+      "almighty_affinity": 0,
+      "buff_affinity": 4,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -2
+    },
+    "level": 50,
+    "name": "Onyankopon",
+    "race": "Enigma",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Null",
+      "fire_resistance": "Null",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Weak"
+    },
+    "stats": {
+      "agility": 31,
+      "hp": 273,
+      "luck": 38,
+      "magic": 48,
+      "mp": 238,
+      "strength": 22,
+      "vitality": 41
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": -3,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 1,
+      "light_affinity": -2,
+      "phys_affinity": 0
+    },
+    "level": 8,
+    "name": "Peallaidh",
+    "race": "Wilder",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Strong",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 7,
+      "hp": 63,
+      "luck": 9,
+      "magic": 11,
+      "mp": 83,
+      "strength": 6,
+      "vitality": 12
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": -1,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 1,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": -2
+    },
+    "level": 2,
+    "name": "Pixie",
+    "race": "Fairy",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Strong",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 8,
+      "hp": 32,
+      "luck": 6,
+      "magic": 7,
+      "mp": 82,
+      "strength": 2,
+      "vitality": 4
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -5,
+      "fire_affinity": 0,
+      "force_affinity": 3,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": 3
+    },
+    "level": 70,
+    "name": "Rangda",
+    "race": "Femme",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Repel"
+    },
+    "stats": {
+      "agility": 39,
+      "hp": 297,
+      "luck": 51,
+      "magic": 59,
+      "mp": 328,
+      "strength": 46,
+      "vitality": 36
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 7,
+      "almighty_affinity": 2,
+      "buff_affinity": 0,
+      "dark_affinity": 4,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": -6,
+      "light_affinity": 4,
+      "phys_affinity": -4
+    },
+    "level": 88,
+    "name": "Samael",
+    "race": "Drake",
+    "resistances": {
+      "dark_resistance": "Repel",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Repel",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 55,
+      "hp": 572,
+      "luck": 57,
+      "magic": 85,
+      "mp": 435,
+      "strength": 48,
+      "vitality": 70
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -5,
+      "almighty_affinity": 7,
+      "buff_affinity": 2,
+      "dark_affinity": 0,
+      "elec_affinity": 3,
+      "fire_affinity": 6,
+      "force_affinity": 3,
+      "healing_affinity": -2,
+      "ice_affinity": 3,
+      "light_affinity": 0,
+      "phys_affinity": 6
+    },
+    "level": 99,
+    "name": "Satan",
+    "race": "Primal",
+    "resistances": {
+      "dark_resistance": "Drain",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Drain",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Drain",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 61,
+      "hp": 700,
+      "luck": 70,
+      "magic": 103,
+      "mp": 550,
+      "strength": 103,
+      "vitality": 72
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": -2,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 5,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -5,
+      "light_affinity": 0,
+      "phys_affinity": 4
+    },
+    "level": 88,
+    "name": "Saturnus",
+    "race": "Vile",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Drain",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 52,
+      "hp": 588,
+      "luck": 48,
+      "magic": 60,
+      "mp": 389,
+      "strength": 85,
+      "vitality": 65
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 2,
+      "almighty_affinity": -2,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": -3,
+      "fire_affinity": 0,
+      "force_affinity": 2,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 43,
+    "name": "Senri",
+    "race": "Holy",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Strong",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 203,
+      "luck": 35,
+      "magic": 33,
+      "mp": 210,
+      "strength": 31,
+      "vitality": 22
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 1,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 2,
+      "elec_affinity": 0,
+      "fire_affinity": -5,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 2,
+      "phys_affinity": 0
+    },
+    "level": 29,
+    "name": "Shiki-Ouji",
+    "race": "Brute",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 23,
+      "hp": 135,
+      "luck": 23,
+      "magic": 29,
+      "mp": 159,
+      "strength": 16,
+      "vitality": 18
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": -5,
+      "buff_affinity": 1,
+      "dark_affinity": -5,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": -4,
+      "ice_affinity": 0,
+      "light_affinity": -5,
+      "phys_affinity": 6
+    },
+    "level": 63,
+    "name": "Siegfried",
+    "race": "Wargod",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Drain"
+    },
+    "stats": {
+      "agility": 47,
+      "hp": 338,
+      "luck": 33,
+      "magic": 30,
+      "mp": 213,
+      "strength": 59,
+      "vitality": 41
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 4,
+      "buff_affinity": 3,
+      "dark_affinity": -3,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 0,
+      "light_affinity": 5,
+      "phys_affinity": -3
+    },
+    "level": 60,
+    "name": "Tao",
+    "race": "Panagia",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 38,
+      "hp": 308,
+      "luck": 49,
+      "magic": 62,
+      "mp": 355,
+      "strength": 20,
+      "vitality": 44
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": -3,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 3,
+      "phys_affinity": -3
+    },
+    "level": 20,
+    "name": "Tao Isonokami A",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 17,
+      "hp": 95,
+      "luck": 20,
+      "magic": 23,
+      "mp": 130,
+      "strength": 11,
+      "vitality": 16
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 2,
+      "buff_affinity": 2,
+      "dark_affinity": -3,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": 4,
+      "phys_affinity": -3
+    },
+    "level": 37,
+    "name": "Tao Isonokami B",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 28,
+      "hp": 165,
+      "luck": 31,
+      "magic": 37,
+      "mp": 203,
+      "strength": 17,
+      "vitality": 26
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 4,
+      "almighty_affinity": 5,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 3,
+      "fire_affinity": 3,
+      "force_affinity": 3,
+      "healing_affinity": 0,
+      "ice_affinity": 3,
+      "light_affinity": 0,
+      "phys_affinity": -6
+    },
+    "level": 73,
+    "name": "Trumpeter",
+    "race": "Fiend",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 55,
+      "hp": 398,
+      "luck": 57,
+      "magic": 77,
+      "mp": 402,
+      "strength": 32,
+      "vitality": 30
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 7,
+      "light_affinity": 7,
+      "phys_affinity": 6
+    },
+    "level": 52,
+    "name": "Tsukuyomi Base",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Drain",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 46,
+      "hp": 247,
+      "luck": 42,
+      "magic": 32,
+      "mp": 243,
+      "strength": 33,
+      "vitality": 32
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 7,
+      "light_affinity": 7,
+      "phys_affinity": 6
+    },
+    "level": 69,
+    "name": "Tsukuyomi Median",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Drain",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 60,
+      "hp": 351,
+      "luck": 54,
+      "magic": 42,
+      "mp": 329,
+      "strength": 43,
+      "vitality": 41
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 3,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 7,
+      "light_affinity": 7,
+      "phys_affinity": 6
+    },
+    "level": 80,
+    "name": "Tsukuyomi Ultimus",
+    "race": "Proto",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Strong",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Drain",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 68,
+      "hp": 426,
+      "luck": 63,
+      "magic": 49,
+      "mp": 391,
+      "strength": 50,
+      "vitality": 46
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 1,
+      "healing_affinity": -2,
+      "ice_affinity": 0,
+      "light_affinity": -2,
+      "phys_affinity": 3
+    },
+    "level": 26,
+    "name": "Turbo Granny",
+    "race": "Foul",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 32,
+      "hp": 114,
+      "luck": 18,
+      "magic": 17,
+      "mp": 141,
+      "strength": 20,
+      "vitality": 15
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 4,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": -4,
+      "ice_affinity": 3,
+      "light_affinity": 0,
+      "phys_affinity": 0
+    },
+    "level": 75,
+    "name": "Tzitzimitl",
+    "race": "Vile",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 52,
+      "hp": 393,
+      "luck": 44,
+      "magic": 74,
+      "mp": 394,
+      "strength": 32,
+      "vitality": 49
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -1,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 0,
+      "elec_affinity": -2,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": 2,
+      "phys_affinity": 0
+    },
+    "level": 11,
+    "name": "Unicorn",
+    "race": "Holy",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Weak",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 11,
+      "hp": 76,
+      "luck": 8,
+      "magic": 10,
+      "mp": 76,
+      "strength": 10,
+      "vitality": 12
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 2,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": -3,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 20,
+    "name": "Vouivre",
+    "race": "Snake",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Weak",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 16,
+      "hp": 114,
+      "luck": 18,
+      "magic": 11,
+      "mp": 100,
+      "strength": 22,
+      "vitality": 16
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": -1,
+      "buff_affinity": 0,
+      "dark_affinity": 0,
+      "elec_affinity": 3,
+      "fire_affinity": 0,
+      "force_affinity": -3,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 52,
+    "name": "Vritra",
+    "race": "Dragon",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Null",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Weak",
+      "ice_resistance": "Strong",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 34,
+      "hp": 263,
+      "luck": 30,
+      "magic": 40,
+      "mp": 246,
+      "strength": 40,
+      "vitality": 32
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -4,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": -1,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 1,
+      "light_affinity": 1,
+      "phys_affinity": 3
+    },
+    "level": 29,
+    "name": "Xiezhai",
+    "race": "Avatar",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Null",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 18,
+      "hp": 161,
+      "luck": 16,
+      "magic": 24,
+      "mp": 127,
+      "strength": 24,
+      "vitality": 25
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 4,
+      "buff_affinity": 3,
+      "dark_affinity": 5,
+      "elec_affinity": 0,
+      "fire_affinity": 3,
+      "force_affinity": 0,
+      "healing_affinity": 3,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": -3
+    },
+    "level": 82,
+    "name": "Yoko",
+    "race": "Panagia",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 56,
+      "hp": 441,
+      "luck": 66,
+      "magic": 85,
+      "mp": 500,
+      "strength": 27,
+      "vitality": 58
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": 3,
+      "elec_affinity": 0,
+      "fire_affinity": 1,
+      "force_affinity": 0,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": -3
+    },
+    "level": 7,
+    "name": "Yoko Hiromine A",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 10,
+      "hp": 62,
+      "luck": 9,
+      "magic": 14,
+      "mp": 84,
+      "strength": 5,
+      "vitality": 9
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 1,
+      "buff_affinity": 2,
+      "dark_affinity": 3,
+      "elec_affinity": 0,
+      "fire_affinity": 1,
+      "force_affinity": 0,
+      "healing_affinity": 1,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": -3
+    },
+    "level": 20,
+    "name": "Yoko Hiromine B",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Strong",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 18,
+      "hp": 105,
+      "luck": 18,
+      "magic": 27,
+      "mp": 120,
+      "strength": 10,
+      "vitality": 14
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 2,
+      "buff_affinity": 2,
+      "dark_affinity": 4,
+      "elec_affinity": 0,
+      "fire_affinity": 2,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 0,
+      "light_affinity": -3,
+      "phys_affinity": -3
+    },
+    "level": 37,
+    "name": "Yoko Hiromine C",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Null",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Weak",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 175,
+      "luck": 29,
+      "magic": 42,
+      "mp": 193,
+      "strength": 15,
+      "vitality": 23
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 0,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": -4,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 5
+    },
+    "level": 45,
+    "name": "Yoshitsune",
+    "race": "Wargod",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Neutral",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Strong"
+    },
+    "stats": {
+      "agility": 46,
+      "hp": 253,
+      "luck": 31,
+      "magic": 22,
+      "mp": 200,
+      "strength": 47,
+      "vitality": 25
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -3,
+      "almighty_affinity": 0,
+      "buff_affinity": 1,
+      "dark_affinity": -2,
+      "elec_affinity": 0,
+      "fire_affinity": -2,
+      "force_affinity": 0,
+      "healing_affinity": 0,
+      "ice_affinity": 2,
+      "light_affinity": 1,
+      "phys_affinity": 2
+    },
+    "level": 8,
+    "name": "Yuzuru Atsuta A",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Strong",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 8,
+      "hp": 72,
+      "luck": 5,
+      "magic": 16,
+      "mp": 80,
+      "strength": 15,
+      "vitality": 12
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -3,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": -2,
+      "elec_affinity": 0,
+      "fire_affinity": -2,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 2,
+      "light_affinity": 1,
+      "phys_affinity": 3
+    },
+    "level": 44,
+    "name": "Yuzuru Atsuta B",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 30,
+      "hp": 290,
+      "luck": 26,
+      "magic": 44,
+      "mp": 224,
+      "strength": 40,
+      "vitality": 38
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": -3,
+      "almighty_affinity": 0,
+      "buff_affinity": 2,
+      "dark_affinity": -2,
+      "elec_affinity": 0,
+      "fire_affinity": -2,
+      "force_affinity": 0,
+      "healing_affinity": 2,
+      "ice_affinity": 2,
+      "light_affinity": 1,
+      "phys_affinity": 3
+    },
+    "level": 47,
+    "name": "Yuzuru Atsuta C",
+    "race": "Human",
+    "resistances": {
+      "dark_resistance": "Neutral",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Weak",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Null",
+      "light_resistance": "Strong",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 31,
+      "hp": 307,
+      "luck": 28,
+      "magic": 46,
+      "mp": 236,
+      "strength": 42,
+      "vitality": 40
+    }
+  },
+  {
+    "affinities": {
+      "ailment_affinity": 3,
+      "almighty_affinity": 0,
+      "buff_affinity": 0,
+      "dark_affinity": -2,
+      "elec_affinity": 0,
+      "fire_affinity": 0,
+      "force_affinity": 0,
+      "healing_affinity": -3,
+      "ice_affinity": 0,
+      "light_affinity": 0,
+      "phys_affinity": 2
+    },
+    "level": 9,
+    "name": "Zhu Tun She",
+    "race": "Drake",
+    "resistances": {
+      "dark_resistance": "Weak",
+      "elec_resistance": "Neutral",
+      "fire_resistance": "Neutral",
+      "force_resistance": "Neutral",
+      "ice_resistance": "Strong",
+      "light_resistance": "Neutral",
+      "phys_resistance": "Neutral"
+    },
+    "stats": {
+      "agility": 10,
+      "hp": 73,
+      "luck": 8,
+      "magic": 6,
+      "mp": 65,
+      "strength": 13,
+      "vitality": 11
+    }
+  }
+]
